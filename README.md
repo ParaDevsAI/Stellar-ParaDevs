@@ -35,6 +35,12 @@ Mergulho na tecnologia fundamental e arquitetura subjacente.
 É hora de construir.
 1. [Agora a brincadeira começa: Código e mecanismos no Repo ParaDevs](docs/3-pratica-codigo/01-repo-paradevs-stellar.md)
 
+### 📚 Fase 4: Especialização e Documentação Oficial (Soroban)
+Mergulho na documentação primária para criação de Contratos Inteligentes na plataforma Soroban. Este é o seu **Roadmap Oficial** de especialização.
+1. [Construindo na Stellar: Visão Geral](docs/4-documentacao-oficial/01-visao-geral-build.md)
+2. [Smart Contracts: A Máquina por Trás do Soroban](docs/4-documentacao-oficial/02-smart-contracts-overview.md)
+3. [Contratos de Exemplo: A Engenharia Reversa (Roadmap)](docs/4-documentacao-oficial/03-example-contracts.md)
+
 ---
 
 Bora "buidar"! 🚀
